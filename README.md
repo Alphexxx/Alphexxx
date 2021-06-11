@@ -1,6 +1,6 @@
 <strong>Bem-vindo ao meu perfil !!!</strong>
 
-- 👋 Olá, Eu sou @Alphexxx
+- 👋 Olá, Eu sou Leonardo Minichelo Oliveira, tamb;em conhecido como @Alphexxx
 - 👀 Estou interessado em aprender programação, evoluir, me tornar um desenvolvedor FullStack e adentrar no mercado de trabalho.
 - 📖 Eu estou aprendendo: HTML-CSS
 - 📚 Eu pretendo aprender: JavaScript, PHP, Java, Python, C, C#, C++ e Ruby
